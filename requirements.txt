@@ -1,0 +1,9 @@
+matplotlib==3.1.2
+numpy==1.17.4
+imblearn==0.0
+pandas==1.2.5
+plotly==5.1.0
+scikit_learn==0.24.2
+seaborn==0.11.1
+streamlit==0.83.0
+tensorflow==2.5.0
